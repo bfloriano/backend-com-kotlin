@@ -4,9 +4,9 @@
 Curso sobre kotlin oferecido pela [dio](https://www.dio.me/)
 
 ## 🛠 atividades desenvolvidas:
-Prática de Lógica de Programação com Kotlin
+[Prática de Lógica de Programação com Kotlin](https://github.com/bfloriano/backend-com-kotlin/tree/main/logica%20de%20programacao)
 
-Padrões de Projetos com Kotlin
+[Padrões de Projetos com Kotlin](https://github.com/bfloriano/backend-com-kotlin/tree/main/padroes%20de%20projetos)
 
 [Criação de uma API Rest com Kotlin - desafio de projeto do curso](https://github.com/bfloriano/credit-application-system)
 
@@ -24,7 +24,7 @@ Padrões de Projetos com Kotlin
     - SQL
     - NoSQL
 - kotlin no **backend** com **Spring Boot 3**
-    - criação de uma [API Rest](https://github.com/bfloriano/credit-application-system)
+    - criação de uma API Rest
         - classes de modelos
         - migrations com flyway
         - interfaces da camada repository
